@@ -1,4 +1,4 @@
-// User Greeting
+//30-31-32
 var usernames = ['admin', 'eric', 'jennifer', 'john', 'susan'];
 if (usernames.length > 0) {
     for (var _i = 0, usernames_1 = usernames; _i < usernames_1.length; _i++) {
@@ -14,7 +14,6 @@ if (usernames.length > 0) {
 else {
     console.log("We need to find some users!");
 }
-// Checking Usernames
 var currentUsers = ['eric', 'jennifer', 'john', 'susan', 'david'];
 var newUsers = ['john', 'susan', 'steve', 'emily', 'rachel'];
 var currentUsersLower = currentUsers.map(function (user) { return user.toLowerCase(); });

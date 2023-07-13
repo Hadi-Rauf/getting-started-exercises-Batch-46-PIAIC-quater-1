@@ -1,4 +1,4 @@
-// User Greeting
+//30-31-32
 const usernames: string[] = ['admin', 'eric', 'jennifer', 'john', 'susan'];
 
 if (usernames.length > 0) {
@@ -14,7 +14,6 @@ if (usernames.length > 0) {
 }
 
 
-// Checking Usernames
 const currentUsers: string[] = ['eric', 'jennifer', 'john', 'susan', 'david'];
 const newUsers: string[] = ['john', 'susan', 'steve', 'emily', 'rachel'];
 
